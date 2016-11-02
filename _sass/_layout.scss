@@ -194,7 +194,7 @@ display: table;
 clear: both;
 }
 .project {
-width: 33.33%;
+width: 300px;
 height: 250px;
 float: left;
 vertical-align: middle;
@@ -202,21 +202,21 @@ box-sizing: border-box;
 padding: 10px;
 }
 .thumbnail{
-width: 100%;
+width: 230px;
 height: 230px;
 overflow: hidden;
 }
 .thumbnail img{
-width: 500px;
+width: 230px;
 height: auto;
 position: relative;
-left: -25%;
-top: -5%;
+left: 0;
+top: 0;
 }
 .thumbnail a{
 float: left;
 position: relative;
-width: 100%;
+width: 230px;
 height: 230px;
 }
 .thumbnail a span {
@@ -273,4 +273,20 @@ color: $caption_color;
 text-align: center;
 vertical-align: middle;
 font-size: $caption_font_size;
+}
+
+.photo-gallery div {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.photo-gallery a {
+    display: inline-block;
+    text-align: left;
+    margin-right: 10px;
+}
+
+.photo-gallery img {
+    height: 150px;
 }
