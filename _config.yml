@@ -1,5 +1,5 @@
 # Site settings
-title: Bruno Croci's Portfolio
+title: CrociDB's Portfolio
 email: bruno@croci.me
 description: > # this means to ignore newlines until "baseurl:"
   Bruno Croci's Portfolio
@@ -23,9 +23,6 @@ links:
     external: true
   - title: Blog
     url: http://crocidb.com/
-    external: true
-  - title: Twitter
-    url: http://twiter.com/CrociDB
     external: true
 
 collections:

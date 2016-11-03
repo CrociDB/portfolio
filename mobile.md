@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mobile Apps
+title: Mobile
 permalink: /mobile/
 ---
 
