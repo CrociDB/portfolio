@@ -2,7 +2,7 @@
 title: Bruno Croci's Portfolio
 email: bruno@croci.me
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Bruno Croci's Portfolio
 baseurl: # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: CrociDB

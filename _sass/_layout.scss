@@ -194,12 +194,13 @@ display: table;
 clear: both;
 }
 .project {
-width: 300px;
+width: 250px;
 height: 250px;
 float: left;
 vertical-align: middle;
 box-sizing: border-box;
 padding: 10px;
+margin-left: 40px;
 }
 .thumbnail{
 width: 230px;
@@ -273,20 +274,4 @@ color: $caption_color;
 text-align: center;
 vertical-align: middle;
 font-size: $caption_font_size;
-}
-
-.photo-gallery div {
-    padding: 0;
-    margin: 0;
-    text-align: center;
-}
-
-.photo-gallery a {
-    display: inline-block;
-    text-align: left;
-    margin-right: 10px;
-}
-
-.photo-gallery img {
-    height: 150px;
 }
