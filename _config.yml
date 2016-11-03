@@ -17,6 +17,16 @@ highlighter: pygments
 paginate: 15
 paginate_path: "/blog/page:num/"
 
+links:
+  - title: About
+    url: http://crocidb.com/about/
+    external: true
+  - title: Blog
+    url: http://crocidb.com/
+    external: true
+  - title: Twitter
+    url: http://twiter.com/CrociDB
+    external: true
 
 collections:
   games:
