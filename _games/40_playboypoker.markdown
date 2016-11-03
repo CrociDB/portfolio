@@ -1,5 +1,6 @@
 ---
 layout: post
+slug: playboypoker
 title: Playboy Poker
 description: social poker game at Hive Digital Media
 img: /img/thumb/playboypoker.png

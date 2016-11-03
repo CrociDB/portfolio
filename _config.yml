@@ -21,6 +21,6 @@ paginate_path: "/blog/page:num/"
 collections:
   games:
     output: true
-    permalink: /game/:path/
+    permalink: /game/:slug/
 
 

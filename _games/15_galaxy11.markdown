@@ -1,5 +1,6 @@
 ---
 layout: post
+slug: galaxy11
 title: "Galaxy11: Invasion"
 description: infinity runner for mobile at Black River Studios
 img: /img/thumb/galaxy11.png

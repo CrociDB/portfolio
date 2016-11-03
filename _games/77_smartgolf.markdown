@@ -1,5 +1,6 @@
 ---
 layout: post
+slug: smartgolf
 title: SmartGolf 3D
 description: game for LG's SmartTV at Hive Digital Media
 img: /img/thumb/smartgolf.png

@@ -1,5 +1,6 @@
 ---
 layout: post
+slug: pokerhall
 title: PokerHall
 description: social poker game at Hive Digital Media
 img: /img/thumb/pokerhall.png

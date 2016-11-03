@@ -1,5 +1,6 @@
 ---
 layout: post
+slug: findingmonsters
 title: "Finding Monsters Adventure"
 description: photography game at Black River Studios
 img: /img/thumb/findingmonsters.png

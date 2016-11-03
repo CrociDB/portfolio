@@ -1,5 +1,6 @@
 ---
 layout: post
+slug: gamehero
 title: GameHero Intel
 description: episodic game for web at Hive Digital Media
 img: /img/thumb/gamehero.png

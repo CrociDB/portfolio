@@ -1,5 +1,6 @@
 ---
 layout: post
+slug: phosphorus
 title: "Phosphorus Dating"
 description: dating sim game made for a competition
 img: /img/thumb/phosphorus.png

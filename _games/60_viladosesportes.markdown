@@ -1,5 +1,6 @@
 ---
 layout: post
+slug: viladosesportes
 title: Vila dos Esportes
 description: social game at Hive Digital Media
 img: /img/thumb/viladosesportes.png
