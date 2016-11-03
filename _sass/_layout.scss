@@ -276,6 +276,12 @@ vertical-align: middle;
 font-size: $caption_font_size;
 }
 
-h1 {
+.project_list {
+    margin-top: 20px;
     margin-bottom: 20px;
+    overflow: hidden;
 }
+
+// .category_title {
+
+// }

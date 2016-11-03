@@ -2,8 +2,9 @@
 layout: default
 ---
 
-<h1>Games</h1>
+<h1 class="category_title">Games</h1>
 
+<div class="project_list">
 {% for project in site.games %}
 
 {% if project.redirect %}
@@ -45,9 +46,10 @@ layout: default
 {% endif %}
 
 {% endfor %}
+</div>
 
-<h1>Mobile Apps</h1>
-
+<h1 class="category_title">Mobile Apps</h1>
+<div class="project_list">
 {% for project in site.mobile %}
 
 {% if project.redirect %}
@@ -89,6 +91,7 @@ layout: default
 {% endif %}
 
 {% endfor %}
+</div>
 
 
 <ul class="post-list">
