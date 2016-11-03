@@ -14,6 +14,8 @@ gallery:
    alt: Vila dos Esportes
  - image_path: /img/viladosesportes/vila5.png
    alt: Vila dos Esportes
+ - image_path: /img/viladosesportes/vila6.png
+   alt: Vila dos Esportes
 ---
 
 Vila dos Esportes was a complete social game that ran on **Facebook**, developed at **Hive Digital Media**. It was a game for marketing **P&G** products in Brazil. 

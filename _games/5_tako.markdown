@@ -2,7 +2,7 @@
 layout: post
 title: Tako Kamis
 description: pet battle game for LG's SmartTV at Hive Digital Media
-img: /img/thumb/tako.png
+img: /img/thumb/takokamis.png
 gallery:
  - image_path: /img/tako/tako1.png
    alt: Tako Kamis
