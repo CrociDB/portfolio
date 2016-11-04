@@ -5,17 +5,17 @@ title: Vila dos Esportes
 description: social game at Hive Digital Media
 img: /img/thumb/viladosesportes.png
 gallery:
- - image_path: /img/viladosesportes/vila1.png
+ - image_path: /img/viladosesportes/vila1.jpg
    alt: Vila dos Esportes
- - image_path: /img/viladosesportes/vila2.png
+ - image_path: /img/viladosesportes/vila2.jpg
    alt: Vila dos Esportes
- - image_path: /img/viladosesportes/vila3.png
+ - image_path: /img/viladosesportes/vila3.jpg
    alt: This was the minigame I worked on
- - image_path: /img/viladosesportes/vila4.png
+ - image_path: /img/viladosesportes/vila4.jpg
    alt: Vila dos Esportes
- - image_path: /img/viladosesportes/vila5.png
+ - image_path: /img/viladosesportes/vila5.jpg
    alt: Vila dos Esportes
- - image_path: /img/viladosesportes/vila6.png
+ - image_path: /img/viladosesportes/vila6.jpg
    alt: Vila dos Esportes
 ---
 

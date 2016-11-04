@@ -5,13 +5,13 @@ title: SmartGolf 3D
 description: game for LG's SmartTV at Hive Digital Media
 img: /img/thumb/smartgolf.png
 gallery:
- - image_path: /img/golf/golf1.png
+ - image_path: /img/golf/golf1.jpg
    alt: SmartGolf3D
- - image_path: /img/golf/golf2.png
+ - image_path: /img/golf/golf2.jpg
    alt: SmartGolf3D
- - image_path: /img/golf/golf3.png
+ - image_path: /img/golf/golf3.jpg
    alt: SmartGolf3D
- - image_path: /img/golf/golf4.png
+ - image_path: /img/golf/golf4.jpg
    alt: SmartGolf3D
 ---
 

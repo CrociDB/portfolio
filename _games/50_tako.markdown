@@ -5,19 +5,19 @@ title: Tako Kamis
 description: pet battle game for LG's SmartTV at Hive Digital Media
 img: /img/thumb/takokamis.png
 gallery:
- - image_path: /img/tako/tako1.png
+ - image_path: /img/tako/tako1.jpg
    alt: Tako Kamis
- - image_path: /img/tako/tako2.png
+ - image_path: /img/tako/tako2.jpg
    alt: Tako Kamis
- - image_path: /img/tako/tako3.png
+ - image_path: /img/tako/tako3.jpg
    alt: Tako Kamis
- - image_path: /img/tako/tako4.png
+ - image_path: /img/tako/tako4.jpg
    alt: Tako Kamis
- - image_path: /img/tako/tako5.png
+ - image_path: /img/tako/tako5.jpg
    alt: Tako Kamis
- - image_path: /img/tako/tako6.png
+ - image_path: /img/tako/tako6.jpg
    alt: Tako Kamis
- - image_path: /img/tako/tako7.png
+ - image_path: /img/tako/tako7.jpg
    alt: Tako Kamis  
 ---
 

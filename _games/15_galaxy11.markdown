@@ -7,7 +7,7 @@ img: /img/thumb/galaxy11.png
 gallery:
  - image_path: /img/galaxy11/galaxy111.jpg
    alt: "Galaxy11: Invasion"
- - image_path: /img/galaxy11/galaxy112.png
+ - image_path: /img/galaxy11/galaxy112.jpg
    alt: "Galaxy11: Invasion"
  - image_path: /img/galaxy11/galaxy113.jpg
    alt: "Galaxy11: Invasion"

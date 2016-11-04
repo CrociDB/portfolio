@@ -5,11 +5,11 @@ title: "Futebol Melhor"
 description: fidelity club application at Hive Digital Media
 img: /img/thumb/futebolmelhor.png
 gallery:
- - image_path: /img/futebolmelhor/futebolmelhor1.png
+ - image_path: /img/futebolmelhor/futebolmelhor1.jpg
    alt: "Movimento por um Futebol Melhor"
- - image_path: /img/futebolmelhor/futebolmelhor2.png
+ - image_path: /img/futebolmelhor/futebolmelhor2.jpg
    alt: "Movimento por um Futebol Melhor"
- - image_path: /img/futebolmelhor/futebolmelhor3.png
+ - image_path: /img/futebolmelhor/futebolmelhor3.jpg
    alt: "Movimento por um Futebol Melhor"
 ---
 

@@ -5,11 +5,11 @@ title: Playboy Poker
 description: social poker game at Hive Digital Media
 img: /img/thumb/playboypoker.png
 gallery:
- - image_path: /img/playboypoker/playboy1.png
+ - image_path: /img/playboypoker/playboy1.jpg
    alt: Playboy Poker
- - image_path: /img/playboypoker/playboy2.png
+ - image_path: /img/playboypoker/playboy2.jpg
    alt: Playboy Poker
- - image_path: /img/playboypoker/playboy3.png
+ - image_path: /img/playboypoker/playboy3.jpg
    alt: Playboy Poker
 ---
 

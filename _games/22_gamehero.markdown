@@ -5,23 +5,23 @@ title: GameHero Intel
 description: episodic game for web at Hive Digital Media
 img: /img/thumb/gamehero.png
 gallery:
- - image_path: /img/gamehero/gamehero1.png
+ - image_path: /img/gamehero/gamehero1.jpg
    alt: GameHero Intel
- - image_path: /img/gamehero/gamehero2.png
+ - image_path: /img/gamehero/gamehero2.jpg
    alt: GameHero Intel
- - image_path: /img/gamehero/gamehero3.png
+ - image_path: /img/gamehero/gamehero3.jpg
    alt: GameHero Intel
- - image_path: /img/gamehero/gamehero4.png
+ - image_path: /img/gamehero/gamehero4.jpg
    alt: GameHero Intel
- - image_path: /img/gamehero/gamehero5.png
+ - image_path: /img/gamehero/gamehero5.jpg
    alt: GameHero Intel
- - image_path: /img/gamehero/gamehero6.png
+ - image_path: /img/gamehero/gamehero6.jpg
    alt: GameHero Intel
- - image_path: /img/gamehero/gamehero7.png
+ - image_path: /img/gamehero/gamehero7.jpg
    alt: GameHero Intel
- - image_path: /img/gamehero/gamehero8.png
+ - image_path: /img/gamehero/gamehero8.jpg
    alt: GameHero Intel
- - image_path: /img/gamehero/gamehero9.png
+ - image_path: /img/gamehero/gamehero9.jpg
    alt: GameHero Intel
 ---
 

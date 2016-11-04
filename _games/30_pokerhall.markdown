@@ -5,11 +5,11 @@ title: PokerHall
 description: social poker game at Hive Digital Media
 img: /img/thumb/pokerhall.png
 gallery:
- - image_path: /img/pokerhall/pokerhall1.png
+ - image_path: /img/pokerhall/pokerhall1.jpg
    alt: PokerHall
- - image_path: /img/pokerhall/pokerhall2.png
+ - image_path: /img/pokerhall/pokerhall2.jpg
    alt: PokerHall
- - image_path: /img/pokerhall/pokerhall3.png
+ - image_path: /img/pokerhall/pokerhall3.jpg
    alt: PokerHall
 ---
 
