@@ -5,7 +5,7 @@ layout: default
 <h1 class="category_title">Games</h1>
 
 <div class="project_list">
-{% for project in site.games %}
+{% for project in site.games reversed %}
 
 {% if project.redirect %}
 <div class="project">
@@ -50,7 +50,7 @@ layout: default
 
 <h1 class="category_title">Mobile Apps</h1>
 <div class="project_list">
-{% for project in site.mobile %}
+{% for project in site.mobile reversed %}
 
 {% if project.redirect %}
 <div class="project">

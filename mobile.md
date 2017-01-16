@@ -4,7 +4,7 @@ title: Mobile
 permalink: /mobile/
 ---
 
-{% for project in site.mobile %}
+{% for project in site.mobile reversed %}
 
 {% if project.redirect %}
 <div class="project">

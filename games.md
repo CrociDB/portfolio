@@ -4,7 +4,7 @@ title: Games
 permalink: /games/
 ---
 
-{% for project in site.games %}
+{% for project in site.games reversed %}
 
 {% if project.redirect %}
 <div class="project">
