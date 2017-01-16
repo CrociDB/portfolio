@@ -1,7 +1,7 @@
 ---
 layout: post
 slug: automata
-title: "Rococo VR"
+title: "Automata"
 description: a mobile puzzle for the Tizen platform
 img: /img/thumb/automata.png
 gallery:
