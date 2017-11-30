@@ -1,9 +1,9 @@
 ---
 layout: post
-slug: automata
-title: "Automata"
+slug: angest
+title: "Angest"
 description: a mobile puzzle for the Tizen platform
-img: /img/thumb/automata.png
+img: /img/thumb/angest.png
 gallery:
  - image_path: /img/automata/levels.jpg
    alt: "Automata"

@@ -1,9 +1,9 @@
 ---
 layout: post
-slug: triads
-title: "Triads"
+slug: shattered
+title: "Conflict0: Shattered"
 description: a mobile puzzle game for the Tizen platform
-img: /img/thumb/triads.png
+img: /img/thumb/shattered.png
 gallery:
  - image_path: /img/triads/tizen_promo_banner_triads.jpg
    alt: "Triads"
