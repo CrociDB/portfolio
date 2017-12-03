@@ -2,15 +2,25 @@
 layout: post
 slug: angest
 title: "Angest"
-description: a mobile puzzle for the Tizen platform
+description: a narrative game for GearVR
 img: /img/thumb/angest.png
 gallery:
- - image_path: /img/automata/levels.jpg
-   alt: "Automata"
- - image_path: /img/automata/menu.jpg
-   alt: "Automata"
+ - image_path: /img/angest/angest1.jpg
+   alt: "Angest for GearVR"
+ - image_path: /img/angest/angest2.jpg
+   alt: "Angest for GearVR"
+ - image_path: /img/angest/angest3.jpg
+   alt: "Angest for GearVR"
+ - image_path: /img/angest/angest4.jpg
+   alt: "Angest for GearVR"
+ - image_path: /img/angest/angest5.jpg
+   alt: "Angest for GearVR"
 ---
 
-Automata is a puzzle game for the **Tizen Mobile** platform. Made by the mobile team at **Black River Studios**.
+> Immerse yourself as Valentina, a cosmonaut aboard a ship in the company of Konstantin, the AI that oversees and takes care of you while doing daily tasks for your mission. But as the days go by, your perception of reality can be affected. Will you embrace it? Break free? Or find an answer somewhere else?
 
-I contributed with the very first idea for this project. I also helped developing the concept and making this a playable game. Even though I didn't contribute with the actual development of this game, I'm happy with its results.
+You can download **Angest** on the [Oculus Store for GearVR](https://www.oculus.com/experiences/gear-vr/1199148026798440/).
+
+I worked on several core systems for this game such as the **Save System** and the main **Event System**. I also worked on some gameplay features.
+
+<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/CoJgJeJznII" frameborder="0" allowfullscreen></iframe></p>
