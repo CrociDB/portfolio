@@ -2,7 +2,7 @@
 layout: post
 slug: shattered
 title: "Conflict0: Shattered"
-description: a mobile puzzle game for the Tizen platform
+description: an action shooting game for GearVR
 img: /img/thumb/shattered.png
 gallery:
  - image_path: /img/triads/tizen_promo_banner_triads.jpg
