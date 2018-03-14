@@ -15,8 +15,6 @@ gallery:
    alt: "Rock & Rails"
  - image_path: /img/revolution/revolution5.jpg
    alt: "Rock & Rails"
- - image_path: /img/revolution/revolution6.png
-   alt: "Rock & Rails"
 ---
 
 > The corrupt government of Navaha shamelessly built a wall between the elite and the rest of the population - this was the final motivation necessary to start the revolution. Join forces with the Sovereigns to march into the capital and remove the corruption by its roots. Take arms, capture enemy war robots and set Navaha free!
